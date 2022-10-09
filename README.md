@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @semanurb
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on DjangoCMS
+- 👋 Hi, I’m @semanurbalin
+- 
 - 📫 How to reach me semanurbalin03@gmail.com
 
 <!---
